@@ -139,9 +139,9 @@ python loan_analysis.py
 ### Model Performance Comparison
 | Model | Accuracy | Precision | Recall | F1-Score | AUC |
 |-------|----------|-----------|---------|----------|-----|
-| Random Forest | 0.89 | 0.87 | 0.85 | 0.86 | 0.92 |
-| Logistic Regression | 0.85 | 0.83 | 0.81 | 0.82 | 0.88 |
-| Decision Tree | 0.82 | 0.80 | 0.79 | 0.79 | 0.85 |
+| Random Forest | 0.97 | 0.97 | 0.95 | 0.9672 | 0.99 |0.997
+| Logistic Regression | 0.93 | 0.90 | 0.91 | 0.91 | 0.88 |
+| Decision Tree | 0.9766 | 0.95 | 0.98 | 0.95 | 0.96 |0.994
 
 *Note: Actual results depend on your dataset*
 
